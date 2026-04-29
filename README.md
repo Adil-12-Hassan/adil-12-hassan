@@ -147,10 +147,10 @@ const adil = {
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [your-portfolio.vercel.app](https://my-porfolio-web.vercel.app) |
-| 💼 LinkedIn | [linkedin.com/in/your-username](https://www.linkedin.com/in/adil-hassan-a08115325) |
-| 📧 Email | [your@email.com](syedadilhassan06@gmail.com) |
-| 🐙 GitHub | [github.com/your-username](https://github.com/adil-12-hassan) |
+| 🌐 Portfolio | [My Website](https://my-porfolio-web.vercel.app) |
+| 💼 LinkedIn | [Job Profile](https://www.linkedin.com/in/adil-hassan-a08115325) |
+| 📧 Email | [My Gmail](syedadilhassan06@gmail.com) |
+| 🐙 GitHub | [Code Host](https://github.com/adil-12-hassan) |
 
 </div>
 
