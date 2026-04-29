@@ -147,7 +147,7 @@ const adil = {
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [My Website](https://my-porfolio-web.vercel.app) |
+| 🌐 Portfolio | [My Website](https://hassan-porfolio-web.vercel.app) |
 | 💼 LinkedIn | [Job Profile](https://www.linkedin.com/in/adil-hassan-a08115325) |
 | 📧 Email | [My Gmail](syedadilhassan06@gmail.com) |
 | 🐙 GitHub | [Code Host](https://github.com/adil-12-hassan) |
