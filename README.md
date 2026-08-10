@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner GIF -->
-<img src="https://media.giphy.com/media/UxTZDNv0Zej4s/giphy.gif" width="100%" height="200px" style="object-fit:cover; border-radius:12px;" alt="Rocket Banner" />
+<img src="https://media.giphy.com/media/UxTZDNv0Zej4s/giphy.gif"  style="object-fit:cover; border-radius:12px;" alt="Rocket Banner" />
 
 <br/><br/>
 
