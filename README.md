@@ -1,156 +1,140 @@
 <div align="center">
 
-```
-██████╗ ███████╗██╗   ██╗    ██████╗ ███████╗███████╗██╗ ██████╗ ███╗   ██╗
-██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔════╝██╔════╝██║██╔════╝ ████╗  ██║
-██║  ██║█████╗  ██║   ██║    ██║  ██║█████╗  ███████╗██║██║  ███╗██╔██╗ ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║  ██║██╔══╝  ╚════██║██║██║   ██║██║╚██╗██║
-██████╔╝███████╗ ╚████╔╝     ██████╔╝███████╗███████║██║╚██████╔╝██║ ╚████║
-╚═════╝ ╚══════╝  ╚═══╝      ╚═════╝ ╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+<!-- Animated Banner GIF -->
+<img src="https://media.giphy.com/media/UxTZDNv0Zej4s/giphy.gif" width="100%" height="200px" style="object-fit:cover; border-radius:12px;" alt="Rocket Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+UI%2FUX+Designer;Building+things+that+hit+different.;Code+is+art.+I+make+both." alt="Typing SVG" />
+<br/><br/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7A500&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+I'm+Syed+Adil+Hassan+👋;Full-Stack+Web+Developer+🚀;MERN+Stack+Enthusiast+💻;Building+the+Future%2C+One+Commit+at+a+Time+✨" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hassan-porfolio-web.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-hassan-a08115325)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](syedadilhassan06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adil-12-hassan)
+<!-- Wave gif -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+
+<br/><br/>
+
+<!-- Connect Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil12hassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hassan-porfolio-web.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adil-12-Hassan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedadilhassan06@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adil-12-Hassan&label=Profile+Views&color=F7A500&style=flat-square)
 
 </div>
 
 ---
 
-## ⚡ WHO AM I?
+## 👨‍💻 About Me
 
-> **I'm Adil Hassan** — a 4th-semester BS IT student from **Faisalabad, Pakistan**, operating as a solo **full-stack developer & creative designer** under the brand **`dev&design`**.
->
-> I don't just build apps. I build **experiences** — pixel-perfect, performance-obsessed, and architecturally clean. From shipping **production-grade LMS platforms** to designing **Web Audio instruments** with a CRT aesthetic, I move fast and I move with intent.
->
-> Most devs pick a lane. I own the entire road.
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br/>
+
+🎓 &nbsp;**IT Undergraduate** — Punjab, Pakistan 🇵🇰  
+💼 &nbsp;**Self-Taught Full-Stack Developer** (~2 years experience)  
+🔥 &nbsp;Currently building **Pizza Paradise** — Full-Stack Pizza Shop App  
+🎬 &nbsp;Working on **NightWatch** — Netflix-inspired Video Platform  
+🚀 &nbsp;Targeting **Freelancing** on Fiverr & Upwork  
+📚 &nbsp;Currently Learning: **DSA in C++**, **Oracle SQL**, **TypeScript**  
+💬 &nbsp;Ask me about **MERN Stack, REST APIs, React**  
+⚡ &nbsp;Fun fact: *I debug with `console.log` and I'm not ashamed* 😄  
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ TECH ARSENAL
+## 🛠️ Tech Stack
 
-### 🎯 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 🧠 Also Wielding
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
----
-
-## 🚀 PROJECTS THAT SLAP
-
-### 🎓 LearnForge LMS
-> **Full-stack Learning Management System** — think university portal meets course marketplace.
-- React 18 + TypeScript + Vite + TailwindCSS frontend
-- Node.js / Express / Prisma / PostgreSQL backend
-- JWT with refresh token rotation, role-based access (Admin / Teacher / Student)
-- TanStack Query, Zustand, Recharts, React Hook Form + Zod
-- **Multi-role dashboard system built entirely solo**
-
----
-
-### 🔊 VOID Audio Studio
-> **Browser-based music instruments** — built with Web Audio API, shipped with a CRT dark aesthetic that looks like it came from another dimension.
-- **ΣTYLOPHONE Studio Edition** — stylophone simulator
-- **FRETWORK Studio Guitar** — guitar simulator
-- **VOID VOCAL** — real-time pitch shifter & autotune processor
-- Zero dependencies. Raw Web Audio API. Pure fire.
-
-🔗 [ΣTYLOPHONE Studio Edition →](https://stylophone-studio.vercel.app/)
-🔗 [FRETWORK Studio Guitar →](https://guitar-studio-beta.vercel.app/)
-🔗 [Vocal Void →](https://vocal-void.vercel.app/)
-
----
-
-### 🏪 Multi-Vendor eCommerce SaaS
-> **Shopify-killer blueprint** — full architectural design for a scalable multi-vendor platform.
-- NestJS + PostgreSQL/Prisma + React/Vite + Redis + Stripe
-- Microservice-ready, production-grade, multi-tenant architecture
-
----
-
-### 🗃️ SkyeVaultDB *(In Progress)*
-> **Building a MongoDB-inspired distributed document database from scratch in C++17.**
-- Custom query engine, indexing, distributed replication
-- React-based admin console
-- 8-phase development roadmap
-- Because why use existing tools when you can *build* them?
-
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adil-12-hassan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-12-hassan&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=FFFFFF" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-12-hassan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="48%" />
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 CURRENTLY
-
-```js
-const adil = {
-  status:    "Building LearnForge LMS — solo, full-stack, no excuses.",
-  learning:  ["Next.js", "System Design", "C++17 internals"],
-  ambition:  ["SkyeVaultDB", "WinuxOS", "Personal AI Assistant"],
-  location:  "Faisalabad, Pakistan 🇵🇰",
-  available: true  // for freelance & collabs
-};
-```
-
----
-
-## 📬 HIT ME UP
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [My Website](https://hassan-porfolio-web.vercel.app) |
-| 💼 LinkedIn | [Job Profile](https://www.linkedin.com/in/adil-hassan-a08115325) |
-| 📧 Email | [My Gmail](syedadilhassan06@gmail.com) |
-| 🐙 GitHub | [Code Host](https://github.com/adil-12-hassan) |
+<img src="https://github-readme-stats.vercel.app/api?username=Adil-12-Hassan&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" height="180" alt="Adil's GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-12-Hassan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adil-12-Hassan&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adil-12-Hassan&theme=radical&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🖼️ | Project | Description | Stack | Status |
+|:---:|---------|-------------|-------|--------|
+| 🍕 | **Pizza Paradise** | Full-stack pizza ordering app for local business in Faisalabad | React · Node.js · Supabase | 🔨 In Progress |
+| 🎬 | **NightWatch** | Netflix-inspired video streaming platform | React/TS · Node.js · MongoDB | 🔨 In Progress |
+| 🧑‍💻 | **Fix & Build Portfolio** | Personal dev portfolio with project filtering & animations | HTML · CSS · JS | [🌐 Live](https://hassan-porfolio-web.vercel.app) |
+| 📝 | **CodeWithHassan** | MERN stack blog & dev content platform | React · Node.js · MongoDB | [🌐 Live](https://code-with-hassan-phi.vercel.app) |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Adil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adil-12-Hassan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -158,8 +142,14 @@ const adil = {
 
 <div align="center">
 
-**`< built different. shipped solo. always improving. />`**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
+&nbsp;&nbsp;
+<b><i>I love connecting with fellow developers — feel free to reach out anytime!</i></b>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS)
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A500&height=100&section=footer&text=Made+with+❤️+by+Adil+Hassan&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%"/>
 
 </div>
