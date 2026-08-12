@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- Animated Banner GIF -->
-<img src="https://media.giphy.com/media/UxTZDNv0Zej4s/giphy.gif"  style="object-fit:cover; border-radius:12px;" alt="Rocket Banner" />
-
-<br/><br/>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7A500&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+I'm+Syed+Adil+Hassan;Full-Stack+Web+Developer+🚀;MERN+Stack+Enthusiast+💻;Building+the+Future%2C+One+Commit+at+a+Time+✨" alt="Typing SVG" />
-
-<br/>
-
 <!-- Wave gif -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 
