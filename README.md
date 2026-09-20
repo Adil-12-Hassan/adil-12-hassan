@@ -21,10 +21,10 @@
 
 <br/>
 
-🎓 &nbsp;**IT Undergraduate** — Punjab, Pakistan 🇵🇰  
+🎓 &nbsp;**IT Undergraduate**  Punjab, Pakistan 🇵🇰  
 💼 &nbsp;**Self-Taught Full-Stack Developer** (~2 years experience)  
-🔥 &nbsp;Created **Pizza Shop** — Full-Stack Pizza Shop App  
-🎬 &nbsp;Working on **NightWatch** — Netflix-inspired Video Platform  
+🔥 &nbsp;Created **Pizza Shop** - Full-Stack Pizza Shop App  
+🎬 &nbsp;Working on **NightWatch** - Netflix-inspired Video Platform  
 🚀 &nbsp;Targeting **Freelancing** on Fiverr & Upwork  
 📚 &nbsp;Currently Learning: **DSA in C++**, **Oracle SQL**, **TypeScript**  
 💬 &nbsp;Ask me about **MERN Stack, REST APIs, React**  
@@ -130,7 +130,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
 &nbsp;&nbsp;
-<b><i>I love connecting with fellow developers — feel free to reach out anytime!</i></b>
+<b><i>I love connecting with fellow developers - feel free to reach out anytime!</i></b>
 &nbsp;&nbsp;
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
 
