@@ -97,11 +97,10 @@
 
 | 🖼️ | Project | Description | Stack | Status |
 |:---:|---------|-------------|-------|--------|
-| 🍕 | **Pizza Paradise** | Full-stack pizza ordering app for local business in Faisalabad | React · Node.js · Supabase | 🔨 In Progress |
+| 🍕 | **Pizza Paradise** | Full-stack pizza ordering app for local business in Faisalabad | React · Node.js · Supabase | [🌐 Live](https://pizza-paradise-gamma.vercel.app/) |
 | 🎬 | **NightWatch** | Netflix-inspired video streaming platform | React/TS · Node.js · MongoDB | 🔨 In Progress |
 | 🧑‍💻 | **Fix & Build Portfolio** | Personal dev portfolio with project filtering & animations | HTML · CSS · JS | [🌐 Live](https://hassan-porfolio-web.vercel.app) |
 | 📝 | **CodeWithHassan** | MERN stack blog & dev content platform | React · Node.js · MongoDB | [🌐 Live](https://code-with-hassan-phi.vercel.app) |
-
 </div>
 
 ---
