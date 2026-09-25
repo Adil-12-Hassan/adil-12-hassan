@@ -47,8 +47,8 @@ I'm Adil, a self-taught full-stack developer from Punjab, Pakistan. For around t
       <sub>React · Node.js · Supabase</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hassan-page.vercel.app"><img src="./assets/fix-and-build.svg" alt="Fix and Build personal portfolio" width="100%" /></a>
-      <a href="https://hassan-porfolio-web.vercel.app"><img src="https://img.shields.io/badge/LANDING_PAGES_COLLECTION-view_project-87c6df?style=flat-square&labelColor=17242b" alt="Landing Pages Collection" /></a><br />
+      <a href="https://hassan-pages.vercel.app"><img src="./assets/fix-and-build.svg" alt="Fix and Build personal portfolio" width="100%" /></a>
+      <a href="https://hassan-pages.vercel.app/"><img src="https://img.shields.io/badge/LANDING_PAGES_COLLECTION-view_project-87c6df?style=flat-square&labelColor=17242b" alt="Landing Pages Collection" /></a><br />
       Project filtering with lively interface animations.<br />
       <sub>HTML · CSS · JavaScript</sub>
     </td>
