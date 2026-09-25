@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="22" viewBox="0 0 1200 22" fill="none">
+  <style>
+    .runner { animation: slide 5s ease-in-out infinite alternate; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(1170px); } }
+  </style>
+  <path d="M0 11H1200" stroke="#294039" stroke-width="2" />
+  <path d="M0 11H1200" stroke="#ccff66" stroke-width="2" stroke-dasharray="22 1178" class="runner" />
+  <circle cx="10" cy="11" r="3" fill="#ff8066" />
+</svg>

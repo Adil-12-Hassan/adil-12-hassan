@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="208" viewBox="0 0 560 208" fill="none">
+  <style>
+    .page { animation: turn 5s ease-in-out infinite; }
+    .dot { animation: blink 1.6s steps(2, end) infinite; }
+    @keyframes turn { 50% { transform: rotate(-3deg) translateY(-3px); } }
+    @keyframes blink { 50% { opacity: .3; } }
+  </style>
+  <rect x="1" y="1" width="558" height="206" rx="12" fill="#20251d" stroke="#596041" />
+  <text x="31" y="49" fill="#ccff66" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">WRITE / SHARE / LEARN</text>
+  <text x="28" y="94" fill="#f1f4ee" font-family="Arial, sans-serif" font-size="29" font-weight="700">CODEWITHHASSAN</text>
+  <text x="31" y="122" fill="#bec8aa" font-family="Arial, sans-serif" font-size="14">A home for developer stories and ideas.</text>
+  <rect x="31" y="151" width="114" height="27" rx="4" fill="#ccff66" />
+  <text x="46" y="169" fill="#20251d" font-family="Arial, sans-serif" font-size="11" font-weight="700">READ THE BLOG</text>
+  <g class="page">
+    <rect x="383" y="30" width="112" height="148" rx="5" fill="#eee8d5" />
+    <path d="M399 54H478M399 65H466" stroke="#74816c" stroke-width="4" stroke-linecap="round" />
+    <rect x="399" y="79" width="80" height="45" rx="3" fill="#ccff66" />
+    <path d="M399 137H479M399 148H466M399 159H474" stroke="#9ba08c" stroke-width="4" stroke-linecap="round" />
+    <circle cx="508" cy="155" r="7" fill="#ff8066" class="dot" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" fill="none">
+  <style>
+    .glint { animation: pass 6s ease-in-out infinite; }
+    @keyframes pass { 0%, 20% { transform: translateX(-150px); opacity: 0; } 55% { opacity: .75; } 100% { transform: translateX(1300px); opacity: 0; } }
+  </style>
+  <defs><clipPath id="clip"><rect width="1200" height="154" rx="12" /></clipPath></defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="154" rx="12" fill="#111a16" stroke="#34473d" />
+    <path d="M0 1H1200" stroke="#ccff66" stroke-width="3" />
+    <text x="28" y="39" fill="#92a89a" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">MY EVERYDAY TOOLKIT</text>
+    <g font-family="Arial, sans-serif" font-size="13" font-weight="700">
+      <rect x="28" y="57" width="112" height="36" rx="5" fill="#20332e" /><text x="51" y="80" fill="#61dafb">React</text>
+      <rect x="150" y="57" width="139" height="36" rx="5" fill="#253244" /><text x="168" y="80" fill="#82b7fa">TypeScript</text>
+      <rect x="299" y="57" width="135" height="36" rx="5" fill="#38351b" /><text x="315" y="80" fill="#f7df1e">JavaScript</text>
+      <rect x="444" y="57" width="118" height="36" rx="5" fill="#20352b" /><text x="460" y="80" fill="#90d878">Node.js</text>
+      <rect x="572" y="57" width="112" height="36" rx="5" fill="#282c2a" /><text x="591" y="80" fill="#f1f4ee">Express</text>
+      <rect x="694" y="57" width="123" height="36" rx="5" fill="#20372d" /><text x="710" y="80" fill="#83d68b">MongoDB</text>
+      <rect x="827" y="57" width="133" height="36" rx="5" fill="#202f3d" /><text x="844" y="80" fill="#8ab7df">PostgreSQL</text>
+      <rect x="970" y="57" width="104" height="36" rx="5" fill="#26362c" /><text x="986" y="80" fill="#9be9c3">Supabase</text>
+      <rect x="1084" y="57" width="88" height="36" rx="5" fill="#302b28" /><text x="1104" y="80" fill="#f1f4ee">Git</text>
+    </g>
+    <text x="28" y="126" fill="#92a89a" font-family="Arial, sans-serif" font-size="12">Also in the mix: HTML · CSS · Postman · Vercel</text>
+    <path class="glint" d="M0 0L55 0L-65 154H-120Z" fill="#ccff66" opacity=".35" />
+  </g>
+</svg>

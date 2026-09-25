@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="208" viewBox="0 0 560 208" fill="none">
+  <style>
+    .olive { animation: bob 3s ease-in-out infinite; }
+    .pepper { animation: bob 3s ease-in-out infinite reverse; }
+    @keyframes bob { 50% { transform: translateY(-4px); } }
+  </style>
+  <rect x="1" y="1" width="558" height="206" rx="12" fill="#251d1a" stroke="#6d4133" />
+  <path d="M25 28H535" stroke="#49342b" />
+  <text x="31" y="55" fill="#ffb26f" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">LOCAL BUSINESS / FAISALABAD</text>
+  <text x="28" y="105" fill="#fff1df" font-family="Arial, sans-serif" font-size="31" font-weight="700">PIZZA PARADISE</text>
+  <text x="31" y="134" fill="#d9bdaa" font-family="Arial, sans-serif" font-size="14">A fresh take on ordering, made for a local favorite.</text>
+  <rect x="31" y="155" width="77" height="26" rx="13" fill="#ff8066" />
+  <text x="48" y="173" fill="#251d1a" font-family="Arial, sans-serif" font-size="11" font-weight="700">ORDER UP</text>
+  <g transform="translate(427 111)">
+    <circle r="67" fill="#f2b94f" />
+    <circle r="55" fill="#f7dfad" />
+    <circle r="47" fill="#d95e42" />
+    <circle r="37" fill="#f0a447" />
+    <g fill="#683b2d" class="olive">
+      <circle cx="-15" cy="-18" r="6" /><circle cx="19" cy="-9" r="6" /><circle cx="-4" cy="17" r="6" /><circle cx="22" cy="22" r="5" />
+    </g>
+    <g fill="#f5dd93" class="pepper">
+      <circle cx="8" cy="-29" r="4" /><circle cx="-28" cy="7" r="4" /><circle cx="6" cy="3" r="4" />
+    </g>
+    <path d="M-44 40L45-39" stroke="#fff0cf" stroke-width="2" opacity=".36" />
+  </g>
+</svg>

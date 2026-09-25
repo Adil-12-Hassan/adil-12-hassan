@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none">
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#294039" stroke-width="1" opacity=".42" />
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="390" rx="18" /></clipPath>
+    <style>
+      .trace { stroke-dasharray: 9 13; animation: travel 14s linear infinite; }
+      .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.6s ease-in-out infinite; }
+      .float { animation: drift 5s ease-in-out infinite; }
+      @keyframes travel { to { stroke-dashoffset: -176; } }
+      @keyframes pulse { 50% { opacity: .35; transform: scale(.78); } }
+      @keyframes drift { 50% { transform: translateY(-7px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="390" fill="#111a16" />
+    <rect width="1200" height="390" fill="url(#grid)" />
+    <path d="M0 318H1200" stroke="#294039" />
+    <path d="M714 0V318M944 0V318" stroke="#294039" />
+    <path class="trace" d="M690 267H791L832 226H916L953 189H1085" stroke="#ccff66" stroke-width="2" opacity=".72" />
+    <circle cx="1085" cy="189" r="5" fill="#ccff66" class="pulse" />
+    <circle cx="791" cy="267" r="4" fill="#ff8066" />
+    <text x="58" y="54" fill="#ccff66" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">INDEPENDENT DEVELOPER  /  PAKISTAN</text>
+    <text x="54" y="158" fill="#f1f4ee" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">ADIL HASSAN</text>
+    <text x="59" y="204" fill="#d1ddd4" font-family="Arial, sans-serif" font-size="21">Full-stack developer building useful things for the web.</text>
+    <rect x="59" y="239" width="132" height="34" rx="4" fill="#ccff66" />
+    <text x="75" y="261" fill="#17211d" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">REACT + NODE</text>
+    <text x="210" y="261" fill="#b3c4b9" font-family="Arial, sans-serif" font-size="13">From first sketch to deployed product.</text>
+    <g class="float">
+      <rect x="768" y="71" width="360" height="171" rx="10" fill="#1a2822" stroke="#3b5146" />
+      <path d="M768 105H1128" stroke="#3b5146" />
+      <circle cx="790" cy="88" r="4" fill="#ff8066" />
+      <circle cx="805" cy="88" r="4" fill="#f3c969" />
+      <circle cx="820" cy="88" r="4" fill="#ccff66" />
+      <text x="790" y="137" fill="#92a89a" font-family="monospace" font-size="13">const developer = {</text>
+      <text x="810" y="163" fill="#f1f4ee" font-family="monospace" font-size="13">focus: <tspan fill="#ccff66">"full-stack"</tspan>,</text>
+      <text x="810" y="188" fill="#f1f4ee" font-family="monospace" font-size="13">craft: <tspan fill="#ff8066">"with care"</tspan></text>
+      <text x="790" y="214" fill="#92a89a" font-family="monospace" font-size="13">};</text>
+    </g>
+    <text x="59" y="356" fill="#92a89a" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">DESIGN  /  CODE  /  SHIP</text>
+    <text x="1010" y="356" fill="#92a89a" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">OPEN TO COLLABORATE</text>
+  </g>
+</svg>
